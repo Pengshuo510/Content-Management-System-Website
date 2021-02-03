@@ -1,0 +1,7 @@
+// Initialize page data
+// This _id is used in line 12 in index.js
+
+{"_id":{"$oid":"5fcc4d379bb4d851bc42f7ab"},
+"siteTitle":"PHA: Content Management System",
+"copyright":"Copyright 2020: Pengshuo Liu, Abhishek Sawant, Hung-yi Chen",
+"logoName":"logo.jpg"}
